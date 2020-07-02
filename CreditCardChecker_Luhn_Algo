@@ -1,4 +1,10 @@
 // ************************** FILE NAME : credit_card_checker_using_luhn_algo.js *************************************
+/*The purpose of the project is to check whether the credit cards are valid or invalid and to deduct the corresponding companies for which the credit cards are invalid.
+Input: List of batch array's containing valid and invalid credit cards
+Output: The program will list all the companies  for which there are invalid credit cards
+No of files: 1
+File Name: credit_card_checker_using_luhn_algo.js
+Languages used: JavaScript*/
 
 // All valid credit card numbers
 const valid1 = [4, 5, 3, 9, 6, 7, 7, 9, 0, 8, 0, 1, 6, 8, 0, 8]

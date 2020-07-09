@@ -28,3 +28,12 @@ How to play? : Download all 3 files and save in folder say Choredoor. Open chore
 Enjoy the game!!! :)
 
 *******************************************************************************************************************************************************************
+
+ PROJ 3: This is a subset of a project where we generate protein DNA sequencing of a unique species and decode only those which species can survive (Decoding only those sequences of species where 'C' and 'G' constitute minimum 60% of overall DNA sequence). 
+
+File name: Protein DNA sequencing.js
+Languages used: JavaScript
+Number of files: 1
+Running the script Protein DNA sequencing.js, will give the output of the possible dna sequence which are valid and the corresponding specimen number of the valid DNA sequences
+*******************************************************************************************************************************************************************
+

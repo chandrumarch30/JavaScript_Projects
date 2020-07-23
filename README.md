@@ -35,3 +35,19 @@ This is a subset of a project where we generate protein DNA sequencing of a uniq
 File name: Protein DNA sequencing.js Languages used: JavaScript Number of files: 1 Running the script Protein DNA sequencing.js, will give the output of the possible dna sequence which are valid and the corresponding specimen number of the valid DNA sequences
 
 *******************************************************************************************************************************************************************
+PROJ 4 - Message Mixer service under branch message_Mixer 
+
+Files - message.js and messageMixer.js
+Number of files - 2
+Runn the script message.js which imports functionalities from messageMixer.js to perform the actions as in function.
+
+Message Mixer is a messaging service that allows you to perform an action on input text and display the output of that behavior to the console. For example, with the current functions defined in Message Mixer, you can:
+
+   - count the characters in a message
+   - capitalize the first character of words
+   - reverse a message’s words in place
+   - reversing characters in place
+   - replace the first occurrence of a string
+   - replace all occurrences of a string
+   - encode text by swapping certain characters for other characters
+*******************************************************************************************************************************************************************

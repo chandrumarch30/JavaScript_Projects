@@ -51,3 +51,18 @@ Message Mixer is a messaging service that allows you to perform an action on inp
    - replace all occurrences of a string
    - encode text by swapping certain characters for other characters
 *******************************************************************************************************************************************************************
+
+PROJ 5 - WorkAround_HR project to get basic info about emplyees based on salary
+
+Files- 2 JS files
+File names - employee.js and workAround.js
+Run workAround.js file which import functionalities written in employee.js and gives employee info based on his/her salary.
+
+WorkAround_HR is a human resources program that returns basic information about an employee, based on salary data. Using WorkAround_HR, one can use an employee’s salary data to:
+
+  - return the cadre of the of the employee, in other words, whether this employee is entry level, mid level, or senior level.
+  - calculate employee tax rates
+  - return employee benefits
+  - calculate employee bonuses
+  - calculate the total amount an employee can be reimbursed based on the total value of their health, housing, or wellness benefits
+*******************************************************************************************************************************************************************
